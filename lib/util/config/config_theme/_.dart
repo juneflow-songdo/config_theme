@@ -6,13 +6,13 @@ class ThemeConfig {
   static var lightTheme = ThemeData(
     useMaterial3: true,
     colorScheme: ColorScheme.fromSeed(
-        seedColor: Colors.yellowAccent,
+        seedColor: Colors.blue,
     ),
   );
   static var darkTheme = ThemeData(
     useMaterial3: true,
     colorScheme: ColorScheme.fromSeed(
-        seedColor: Colors.yellow.shade50,
+        seedColor: Colors.blue,
         brightness: Brightness.dark
     ),
   );

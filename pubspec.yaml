@@ -1,9 +1,9 @@
 name: config_theme
 description: "this module make you can config theme easily"
 #publish_to: 'none'
-#repository: https://github.com/juneflow-songdo/config_theme
+repository: https://github.com/juneflow-songdo/config_theme
 
-version: 0.0.2
+version: 0.0.3
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
