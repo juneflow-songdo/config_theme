@@ -1,7 +1,7 @@
 name: config_theme
-description: "Description here"
+description: "this module make you can config theme easily"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+#repository: https://github.com/juneflow-songdo/config_theme
 
 version: 0.0.1+1
 

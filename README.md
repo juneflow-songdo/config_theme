@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/View-Hub-007bff?style=for-the-badge&logo=flutter)](https://view.juneflow.org/)
 
 # config_theme
-description here
+this module make you can set theme in your app.
 
 ##  Installation
 1. If the juneflow project doesn't exist, please create it by following [this guide](https://doc.juneflow.org/).
@@ -14,4 +14,4 @@ description here
  ```
 
 ## Usage
-Usage here
+you can set theme in `lib/util/config/config_theme/_.dart` file.
