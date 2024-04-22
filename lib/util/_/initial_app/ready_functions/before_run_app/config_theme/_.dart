@@ -6,6 +6,7 @@ import '../../../../shared_params/_/material_app.dart';
 
 @ReadyBeforeRunApp()
 Future<void> readyForConfigTheme() async {
+  MaterialAppParams.themeMode = ThemeConfig.startThemeMode;
   MaterialAppParams.lightTheme = ThemeConfig.lightTheme;
   MaterialAppParams.darkTheme = ThemeConfig.darkTheme;
 }
