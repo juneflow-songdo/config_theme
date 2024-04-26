@@ -3,7 +3,7 @@ description: "this module make you can config theme easily"
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/config_theme
 
-version: 0.0.3
+version: 1.0.0
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -11,8 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  go_router: ^13.2.4
-  june_flow_util: ^0.8.19
+  go_router:
+  june_flow_util:
 
 dev_dependencies:
   flutter_test:
