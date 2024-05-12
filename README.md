@@ -17,7 +17,7 @@ this module make you can set theme in your app.
 you can set theme in `lib/util/config/config_theme/_.dart` file.
 
 ### apply font
-1. add font files in `assets/module/config_theme` directory. example font is CaviarDreams.ttf.
+1. add font files in `assets/module/config_theme` directory. example font is CaviarDreams.ttf already inside the directory.
 2. add font in pubspec.yaml file.
 ```yaml
   flutter:
